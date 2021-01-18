@@ -1,0 +1,8 @@
+'tornillo123','01',2
+'tornillo123','02',1
+'tornillo128','01',5
+'tornillo128','02',4
+'tornillo423','01',0
+'tornillo423','02',7
+'tornillo428','01',8
+'tornillo428','02',8
